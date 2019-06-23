@@ -17,11 +17,6 @@ vue2 + vue-router + axios + webpack + express
 ## 运行项目
 
 ``` bash
-#先克隆项目
-git clone https://github.com/eidonlon/imitate-beautiful-thing.git
-
-#进入文件夹
-cd imitate-beautiful-thing
 
 #安装依赖
 npm install
@@ -34,57 +29,7 @@ npm run dev
 npm run build 
 ```
 
-## 效果演示
-
-线上效果请[戳这里](http://ddan.applinzi.com/#/);(在chrome下请调成手机模式预览)；
-
-效果gif:
-
-![效果](https://github.com/eidonlon/imitate-beautiful-thing/blob/master/static/images/demo.gif)
 
 
-
-## 部分截图
-
-首页
-
-![home](https://github.com/eidonlon/imitate-beautiful-thing/blob/master/static/images/home.jpg)
-
-
-作品
-
-![menu](https://github.com/eidonlon/imitate-beautiful-thing/blob/master/static/images/02.jpg)
-
-
-设计师
-
-![music](https://github.com/eidonlon/imitate-beautiful-thing/blob/master/static/images/03.jpg)
-
-
-我的
-
-![read](https://github.com/eidonlon/imitate-beautiful-thing/blob/master/static/images/04.jpg)
-
-详情
-
-![read](https://github.com/eidonlon/imitate-beautiful-thing/blob/master/static/images/05.jpg)
-
-**看到这里，给个star 吧。**
-
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 
 
