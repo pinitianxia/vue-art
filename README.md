@@ -4,9 +4,6 @@ Using Vue to imitate a app.
 简介:这是一个使用vue全家桶做的一个app demo,纯粹学习而已。
 
 
-##### 移动端扫描下方二维码看效果
-![二维码](https://github.com/eidonlon/imitate-beautiful-thing/blob/master/static/images/link.png)
-
 ## 用到的技术
 
 vue2 + vue-router + axios + webpack + express 
